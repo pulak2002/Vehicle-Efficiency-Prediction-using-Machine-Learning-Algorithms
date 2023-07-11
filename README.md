@@ -7,3 +7,6 @@ This study predicts the mpg value by using machine learning models like Random F
 
 ## Dataset Link:
 https://www.kaggle.com/datasets/uciml/autompg-dataset
+
+## Conference Link: 
+View the entire conference paper at https://ieeexplore.ieee.org/document/10127656
